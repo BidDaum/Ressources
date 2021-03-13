@@ -1,0 +1,1 @@
+https://cssgradient.io/   <!-- crée des gradient pour faire des filtres dégradés sur une image par exemple
